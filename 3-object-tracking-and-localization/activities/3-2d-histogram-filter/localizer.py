@@ -17,7 +17,7 @@ def initialize_beliefs(grid):
 def sense(color, grid, beliefs, p_hit, p_miss):
     new_beliefs = []
     
-    print grid
+#     print(grid)
     
     for i in range(len(grid)):
         row = []
