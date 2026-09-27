@@ -1,4 +1,4 @@
-opencv-python>=4.8.1.78
+opencv-python>=4.8.1.78,<5
 matplotlib>=3.8
 pandas>=2.0
 numpy>=1.26

@@ -1,5 +1,5 @@
 jupyterlab>=4.5.10
 notebook>=7.0
 numpy>=1.26
-opencv-python>=4.8.1.78
+opencv-python>=4.8.1.78,<5
 matplotlib>=3.8
